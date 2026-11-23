@@ -1,0 +1,8 @@
+:root {
+  --brand-primary: #106A36;
+  --brand-accent: #D98338;
+  --brand-bg: #FFFFFF;
+  --brand-text: #111827;
+  --font-heading: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
